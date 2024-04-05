@@ -322,3 +322,6 @@ reho/data/weather/hour/*
 scripts/*
 !scripts/examples/
 !scripts/template/
+
+EnergyPlus/output_data
+EnergyPlus/cedric/output
