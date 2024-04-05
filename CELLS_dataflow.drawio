@@ -1,0 +1,137 @@
+<mxfile host="Electron" modified="2024-03-27T14:08:07.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="X6nnovcApyb12MKJwIqB" version="24.1.0" type="device">
+  <diagram name="Page-1" id="DfZmI-uha_2A3TaW9eyM">
+    <mxGraphModel dx="1134" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_G40qYtPH75gk_29BtKF-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="710" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=auto;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="10" y="420" width="710" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="10" y="760" width="710" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-7" target="_G40qYtPH75gk_29BtKF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="110" as="sourcePoint" />
+            <mxPoint x="70" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="110" />
+              <mxPoint x="70" y="320" />
+              <mxPoint x="170" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-7">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="130" y="70" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-31" target="_G40qYtPH75gk_29BtKF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;Technology portfolio&lt;/div&gt;&lt;div&gt;Energy tariff&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-31">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="370" y="180" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;KPI&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-20">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="130" y="800" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;KPI&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-51">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="800" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-12" target="_G40qYtPH75gk_29BtKF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="220" />
+              <mxPoint x="70" y="320" />
+              <mxPoint x="170" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;buildings.csv&lt;div&gt;U_th, Q_heating, ...&lt;/div&gt;&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-12">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="130" y="180" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-13" target="_G40qYtPH75gk_29BtKF-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="3D CAD model" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-13">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="590" y="170" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-26" target="_G40qYtPH75gk_29BtKF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-26" target="_G40qYtPH75gk_29BtKF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Scenario" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-26">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="370" y="440" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-10" target="_G40qYtPH75gk_29BtKF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-10" target="_G40qYtPH75gk_29BtKF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;Weather situation&lt;div&gt;.epw&lt;/div&gt;&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;weather.csv&lt;/span&gt;&#xa;&#xa;" id="_G40qYtPH75gk_29BtKF-10">
+          <mxCell style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="590" y="70" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_G40qYtPH75gk_29BtKF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-8" target="_G40qYtPH75gk_29BtKF-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-8" value="Extract relevant data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-14" target="_G40qYtPH75gk_29BtKF-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-14" value="Optimization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="465" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-28" target="_G40qYtPH75gk_29BtKF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-28" value="Optimization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="665" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-34" target="_G40qYtPH75gk_29BtKF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-34" value="E+ Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_G40qYtPH75gk_29BtKF-42" target="_G40qYtPH75gk_29BtKF-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_G40qYtPH75gk_29BtKF-42" value="Generate .idf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="465" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
