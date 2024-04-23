@@ -3865,7 +3865,7 @@ EndUseEnergyConsumptionOtherFuelsMonthly,
 PeakEnergyEndUseOtherFuelsMonthly;
 
 
-OutputControl:Table:Style, TabAndHTML,JtoKWH;
+OutputControl:Table:Style, All,JtoKWH;
 
 Output:EnvironmentalImpactFactors,
    Hourly;                                        !- Reporting_Frequency
